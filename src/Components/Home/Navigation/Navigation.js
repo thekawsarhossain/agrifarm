@@ -15,9 +15,9 @@ const Navigation = () => {
     English
   </button>
   <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-    <li><a class="dropdown-item" href="/">English</a></li>
-    <li><a class="dropdown-item" href="/">French</a></li>
-    <li><a class="dropdown-item" href="/">German</a></li>
+    <li><a class="dropdown-item" href="#">English</a></li>
+    <li><a class="dropdown-item" href="#">French</a></li>
+    <li><a class="dropdown-item" href="#">German</a></li>
   </ul>
 </div>
 <div class="dropdown">
@@ -25,9 +25,9 @@ const Navigation = () => {
     USD
   </button>
   <ul class="dropdown-menu " aria-labelledby="dropdownMenuButton1">
-    <li><a class="dropdown-item" href="/"> $ - Dollar</a></li>
-    <li><a class="dropdown-item" href="/"> £ - Pound</a></li>
-    <li><a class="dropdown-item" href="/"> € - Euro</a></li>
+    <li><a class="dropdown-item" href="#"> $ - Dollar</a></li>
+    <li><a class="dropdown-item" href="#"> £ - Pound</a></li>
+    <li><a class="dropdown-item" href="#"> € - Euro</a></li>
   </ul>
 </div>
         
@@ -38,10 +38,10 @@ const Navigation = () => {
         {/* start right div  */}
         <div className="right-div ">
           <ul className='d-flex'>
-            <li><a href="/"> My Account</a></li>
-            <li><a href="/"> Checkout</a></li>
-            <li><a href="/"> Wishlist</a></li>
-            <li><a href="/"> Blog</a></li>
+            <li><a href="#"> My Account</a></li>
+            <li><a href="#"> Checkout</a></li>
+            <li><a href="#"> Wishlist</a></li>
+            <li><a href="#"> Blog</a></li>
              <li>  <div class="dropdown">
                      <button class="border-0 me-2 dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
                            Company
