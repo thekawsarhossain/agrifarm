@@ -1,0 +1,29 @@
+.all-fruits {
+  padding: 0;
+ 
+}
+.card{
+  border: 0;
+
+}
+.card img{
+  width: 215px;
+  height: 215px;
+  margin: 0 auto;
+}
+.card span{
+  color: gray;
+}
+.button-section button{
+  border: 0;
+  padding: 6px;
+  border: 1px solid #0ea360;
+  color: #0ea360;
+  border-radius: 50px;
+  width: 89px;
+  font-size: 14px;
+}
+.button-section button:hover{
+  background: #0ea360;
+  color: #fff;
+}
