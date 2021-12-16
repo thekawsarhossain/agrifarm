@@ -1,0 +1,24 @@
+.all-items{
+  display: grid;
+  grid-template-columns:repeat(8,1fr);
+
+}
+.items{
+  border-right: 1px solid rgb(224, 221, 221);
+  border-top:1px solid rgb(224, 221, 221) ;
+}
+.items img{
+  width: 100px;
+  height: 100px;
+}
+.items:first-child{
+ border-left: 1px solid rgb(224, 221, 221);
+}
+.items li {
+  margin-top: 15px;
+  list-style: none;
+  background: #E5F8ED;
+  padding: 17px 0px;
+  border-bottom:  1px solid rgb(224, 221, 221);
+  color: #007d51;
+}
