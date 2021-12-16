@@ -1,0 +1,147 @@
+.menubar{
+  background-color: #01915e;
+  
+}
+.navbar-nav a{
+  font-size: 17px ;
+  margin-left: 16px;
+  color: white !important;
+  
+}
+.nav-dropdown{
+  font-size: 17px ;
+}
+
+a.dropdown-item {
+  color: rgb(0, 0, 0) !important;
+}
+.ul .dropdown-menu .show {
+  padding: 10px;
+}
+.nav-link{
+  border-left: 1px solid #0EA360;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav-link-last{
+  border-right:1px solid #0EA360 ;
+}
+.all-categories{
+background: #98d574;
+padding: 18px 20px 18px 20px;
+border-radius: 5px;
+width: 284.5px;
+cursor: pointer;
+}
+.navbar-brand{
+  font-size: 14px;
+  font-weight: bold;
+}
+.call-btn{
+  font-size: 14px;
+  color: #fff;
+  font-weight: bold;
+  background: #0ea360;
+  border-radius: 8px;
+  padding: 15px 13px ;
+  width: 210px;
+}
+.call-btn:hover{
+  color: white;
+}
+.fa-phone-alt{
+  color: #3EB591;
+}
+.fa-chevron-right{
+  margin-left: 100px;
+  color: #A3A3BA;
+  font-size: 10px;
+}
+.fa-chevron-down{
+  font-size: 12px;
+}
+.icon-2{
+ margin-left: 95px !important;
+}
+.icon-3{
+  margin-left: 80px !important;
+}
+.icon-4{
+  margin-left: 103px !important;
+}
+.span.navbar-toggler-icon {
+  background-color: black;
+}
+.hover-menu ul{
+width: 285.5px;
+position: absolute;
+margin-left: -20px;
+margin-top: 20px;
+}
+
+
+.hover-menu ul li{
+  list-style: none;
+  margin-left: -30px;
+  padding: 10px 0px;
+}
+.hover-menu li:nth-child(even){
+background-color: #0EA360 !important;
+}
+.hover-menu li:nth-child(odd){
+background-color: #a1e0c4 !important;
+}
+
+/* Dropdown Button */
+.dropbtn {
+  background: #98d574;
+  color: white;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  width: 284.5px;
+  margin-top: 19px;
+  margin-left: -20px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  
+}
+
+.dropdown-content a:nth-child(odd){
+  background-color: #ffffff;
+}
+.dropdown-content a:nth-child(even){
+  background-color: #F2F7F3;
+}
+.dropdown-content a:hover{
+  color:#76C9A3;
+}
+.dropdown-content img{
+  margin-right: 10px;
+}
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */

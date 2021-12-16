@@ -1,0 +1,477 @@
+[
+  {
+    "id":"1",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product9.jpg",
+    "categories":"Vegetables",
+    "description":"Fresh Organically Grown Delicious Red Carrot",
+     "Newprice": "129.00",
+     "Oldprice": "159.00",
+     "ratings":"3"
+  
+  },
+  {
+    "id":"2",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product16.jpg",
+    "categories":"Fruits",
+    "description":"Fresh Organically Grown Delicious Blue Grapes",
+     "Newprice": "97.00",
+     "Oldprice": "199.00",
+     "ratings":"3"
+  
+  },
+  {
+    "id":"3",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product17.jpg",
+    "categories":"Dairy",
+    "description":"Fresh Organically Grown Delicious Coriander Leaves",
+     "Newprice": "275.00",
+     "Oldprice": "199.00",
+     "ratings":"3"
+  
+  },
+  {
+    "id":"4",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product29.jpg",
+    "categories":"Salads",
+    "description":"Fresh Organically Grown Delicious Papaya Medium",
+     "Newprice": "97.00",
+     "Oldprice": "112.00",
+     "ratings":"4"
+  
+  },
+  {
+    "id":"5",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product5.jpg",
+    "categories":"Meats",
+    "description":"Fresh Organically Grown Delicious Green Cabbage",
+     "Newprice": "97.00",
+     "Oldprice": "112.00",
+     "ratings":"3.5"
+  
+  },
+  {
+    "id":"6",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product6.jpg",
+    "categories":"Juices",
+    "description":"Fresh Organically Grown Delicious Banana Yellaki",
+     "Newprice": "97.00",
+     "Oldprice": "112.00",
+     "ratings":"5"
+  
+  },
+  {
+    "id":"7",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product13.jpg",
+    "categories":"Datsun",
+    "description":"Fresh Organically Grown Delicious Sweet Potato",
+     "Newprice": "129.00",
+     "Oldprice": "112.00",
+     "ratings":"4"
+  
+  },
+  {
+    "id":"8",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product6.jpg",
+    "categories":"Xperia",
+    "description":"Fresh Organically Grown Delicious Banana Yellaki",
+     "Newprice": "97.00",
+     "Oldprice": "112.00",
+     "ratings":"4.5"
+  
+  },
+  {
+    "id":"9",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product8.jpg",
+    "categories":"Sunproto",
+    "description":"Fresh Organically Grown Delicious Ladies Finger",
+     "Newprice": "227.00",
+     "Oldprice": "142.00",
+     "ratings":"3"
+  
+  },
+  {
+    "id":"10",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product10.jpg",
+    "categories":"Organitc",
+    "description":"Fresh Organically Grown Delicious Green Capsicum",
+     "Newprice": "107.00",
+     "Oldprice": "142.00",
+     "ratings":"3"
+  
+  },
+  {
+    "id":"11",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product5.jpg",
+    "categories":"Tiagoo",
+    "description":"Fresh Organically Grown Delicious Green Cabbage",
+     "Newprice": "97.00",
+     "Oldprice": "132.00",
+     "ratings":"3.5"
+  
+  },
+  {
+    "id":"12",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product14.jpg",
+    "categories":"Cruiser",
+    "description":"Fresh Organically Grown Delicious Green Cabbage Leaves",
+     "Newprice": "97.00",
+     "Oldprice": "112.00",
+     "ratings":"3.5"
+  
+  },
+  {
+    "id":"13",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product2.jpg",
+    "categories":"Xperia",
+    "description":"Fresh Organically Grown Delicious Sweet Baby Corn",
+     "Newprice": "97.00",
+     "Oldprice": "199.00",
+     "ratings":"3.5"
+  
+  },
+  {
+    "id":"14",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product1.jpg",
+    "categories":"Dastun",
+    "description":"Fresh Organically Grown Delicious Red Onion",
+     "Newprice": "129.00",
+     "Oldprice": "199.00",
+     "ratings":"3"
+  
+  },
+  {
+    "id":"15",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product3.jpg",
+    "categories":"Sunproto",
+    "description":"Fresh Organically Grown Delicious Red Tomato",
+     "Newprice": "275.00",
+     "Oldprice": "399.00",
+     "ratings":"4"
+  
+  },
+  {
+    "id":"16",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product4.jpg",
+    "categories":"Organtic",
+    "description":"Fresh Organically Grown Delicious Green Cucumber",
+     "Newprice": "97.00",
+     "Oldprice": "120.00",
+     "ratings":"4.5"
+  
+  },
+  {
+    "id":"17",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product7.jpg",
+    "categories":"Tiagoo",
+    "description":"Fresh Organically Grown Delicious Red Apples",
+     "Newprice": "97.00",
+     "Oldprice": "120.00",
+     "ratings":"4.5"
+  
+  },
+  {
+    "id":"18",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product21.jpg",
+    "categories":"Cruiser",
+    "description":"Fresh Organically Grown Delicious Garlic White",
+     "Newprice": "97.00",
+     "Oldprice": "120.00",
+     "ratings":"4.5"
+  
+  },
+  {
+    "id":"20",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product14.jpg",
+    "categories":"Datsun",
+    "description":"Fresh Organically Grown Delicious Green Cabbage Leaves",
+     "Newprice": "129.00",
+     "Oldprice": "112.00",
+     "ratings":"3.5"
+  
+  },
+  {
+    "id":"21",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product9.jpg",
+    "categories":"Vegetables",
+    "description":"Fresh Organically Grown Delicious Red Carrot",
+     "Newprice": "152.00",
+     "Oldprice": "199.00",
+     "ratings":"3.5"
+  
+  },
+  {
+    "id":"22",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product11.jpg",
+    "categories":"Sunproto",
+    "description":"Fresh Organically Grown Delicious Strawberry Fruits",
+     "Newprice": "385.00",
+     "Oldprice": "399.00",
+     "ratings":"5"
+  
+  },
+  {
+    "id":"23",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product26.jpg",
+    "categories":"Organtic",
+    "description":"Fresh Organically Grown Delicious Raw Mangos",
+     "Newprice": "97.00",
+     "Oldprice": "129.00",
+     "ratings":"4"
+  
+  },
+  {
+    "id":"24",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product5.jpg",
+    "categories":"Tiagoo",
+    "description":"Fresh Organically Grown Delicious Green Cabbage",
+     "Newprice": "97.00",
+     "Oldprice": "132.00",
+     "ratings":"3.5"
+  
+  },
+  {
+    "id":"25",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product6.jpg",
+    "categories":"Xperia",
+    "description":"Fresh Organically Grown Delicious Banana Yellaki",
+     "Newprice": "97.00",
+     "Oldprice": "112.00",
+     "ratings":"4.5"
+  
+  },
+  {
+    "id":"26",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product27.jpg",
+    "categories":"Juice",
+    "description":"Fresh Organically Grown Delicious Watermelon Juice",
+     "Newprice": "150.00",
+     "Oldprice": "222.00",
+     "ratings":"5"
+  
+  },
+
+  {
+    "id":"27",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product12.jpg",
+    "categories":"Xperia",
+    "description":"Fresh Organically Grown Delicious Yellow Lemons",
+     "Newprice": "150.00",
+     "Oldprice": "222.00",
+     "ratings":"5"
+  
+  },
+  {
+    "id":"28",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product20.jpg",
+    "categories":"Sunproto",
+    "description":"Fresh Organically Grown Delicious Green Leaves",
+     "Newprice": "258.00",
+     "Oldprice": "302.00",
+     "ratings":"3"
+  
+  },
+  {
+    "id":"29",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product22.jpg",
+    "categories":"Organtic",
+    "description":"Fresh Organically Grown Delicious Purple Brinjal",
+     "Newprice": "99.00",
+     "Oldprice": "111.00",
+     "ratings":"4.5"
+  
+  },
+  {
+    "id":"30",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product5.jpg",
+    "categories":"Tiagoo",
+    "description":"Fresh Organically Grown Delicious Green Cabbage",
+     "Newprice": "97.00",
+     "Oldprice": "132.00",
+     "ratings":"3.5"
+  
+  },
+  {
+    "id":"31",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product6.jpg",
+    "categories":"Xperia",
+    "description":"Fresh Organically Grown Delicious Banana Yellaki",
+     "Newprice": "97.00",
+     "Oldprice": "112.00",
+     "ratings":"4.5"
+  
+  },
+  {
+    "id":"32",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product25.jpg",
+    "categories":"Datsun",
+    "description":"Fresh Organically Grown Delicious Green Ground Forest",
+     "Newprice": "197.00",
+     "Oldprice": "232.00",
+     "ratings":"4.5"
+  
+  },
+  {
+    "id":"33",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product21.jpg",
+    "categories":"Xperia",
+    "description":"Fresh Organically Grown Delicious Garlic White",
+     "Newprice": "97.00",
+     "Oldprice": "132.00",
+     "ratings":"5"
+  
+  },
+  
+  {
+    "id":"34",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product23.jpg",
+    "categories":"Sunproto",
+    "description":"Fresh Organically Grown Delicious Orange Pumpkin",
+     "Newprice": "275.00",
+     "Oldprice": "332.00",
+     "ratings":"5"
+  
+  },
+  
+  {
+    "id":"35",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product28.jpg",
+    "categories":"Sunproto",
+    "description":"Fresh Organically Grown Delicious Pineapple With Slice ",
+     "Newprice": "97.00",
+     "Oldprice": "202.00",
+     "ratings":"3"
+  
+  },
+  {
+    "id":"36",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product5.jpg",
+    "categories":"Tiagoo",
+    "description":"Fresh Organically Grown Delicious Green Cabbage",
+     "Newprice": "97.00",
+     "Oldprice": "132.00",
+     "ratings":"3.5"
+  
+  },
+  {
+    "id":"37",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product6.jpg",
+    "categories":"Xperia",
+    "description":"Fresh Organically Grown Delicious Banana Yellaki",
+     "Newprice": "97.00",
+     "Oldprice": "112.00",
+     "ratings":"4.5"
+  
+  },
+  {
+    "id":"38",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product30.jpg",
+    "categories":"Datsun",
+    "description":"Fresh Organically Grown Delicious Premium Green Kiwi",
+     "Newprice": "197.00",
+     "Oldprice": "212.00",
+     "ratings":"5"
+  
+  },
+  {
+    "id":"39",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product24.jpg",
+    "categories":"Xperia",
+    "description":"Fresh Organically Grown Delicious Red Beetroot",
+     "Newprice": "97.00",
+     "Oldprice": "199.00",
+     "ratings":"5"
+  
+  },
+  {
+    "id":"40",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product18.jpg",
+    "categories":"Sunproto",
+    "description":"Fresh Organically Grown Delicious Chopped Ginger",
+     "Newprice": "275.00",
+     "Oldprice": "350.00",
+     "ratings":"5"
+  
+  },
+  {
+    "id":"41",
+    "img":"https://themesground.com/agrifarm-demo/V1/products-images/product19.jpg",
+    "categories":"Organtic",
+    "description":"Fresh Organically Grown Delicious Green Long Chill",
+     "Newprice": "97.00",
+     "Oldprice": "150.00",
+     "ratings":"3.5"
+  
+  },
+  {
+  "id":"42",
+  "img":"https://themesground.com/agrifarm-demo/V1/products-images/product9.jpg",
+  "categories":"Vegetables",
+  "description":"Fresh Organically Grown Delicious Red Carrot",
+   "Newprice": "129.00",
+   "Oldprice": "159.00",
+   "ratings":"3"
+
+},
+{
+  "id":"43",
+  "img":"https://themesground.com/agrifarm-demo/V1/products-images/product16.jpg",
+  "categories":"Fruits",
+  "description":"Fresh Organically Grown Delicious Blue Grapes",
+   "Newprice": "97.00",
+   "Oldprice": "199.00",
+   "ratings":"3"
+
+},
+
+{
+  "id":"44",
+  "img":"https://themesground.com/agrifarm-demo/V1/products-images/product3.jpg",
+  "categories":"Sunproto",
+  "description":"Fresh Organically Grown Delicious Red Tomato",
+   "Newprice": "275.00",
+   "Oldprice": "399.00",
+   "ratings":"4"
+
+},
+{
+  "id":"45",
+  "img":"https://themesground.com/agrifarm-demo/V1/products-images/product8.jpg",
+  "categories":"Sunproto",
+  "description":"Fresh Organically Grown Delicious Ladies Finger",
+   "Newprice": "227.00",
+   "Oldprice": "142.00",
+   "ratings":"3"
+
+},
+{
+  "id":"46",
+  "img":"https://themesground.com/agrifarm-demo/V1/products-images/product3.jpg",
+  "categories":"Sunproto",
+  "description":"Fresh Organically Grown Delicious Red Tomato",
+   "Newprice": "275.00",
+   "Oldprice": "399.00",
+   "ratings":"4"
+
+},
+{
+  "id":"47",
+  "img":"https://themesground.com/agrifarm-demo/V1/products-images/product4.jpg",
+  "categories":"Organtic",
+  "description":"Fresh Organically Grown Delicious Green Cucumber",
+   "Newprice": "97.00",
+   "Oldprice": "120.00",
+   "ratings":"4.5"
+
+},
+{
+  "id":"48",
+  "img":"https://themesground.com/agrifarm-demo/V1/products-images/product5.jpg",
+  "categories":"Tiagoo",
+  "description":"Fresh Organically Grown Delicious Green Cabbage",
+   "Newprice": "97.00",
+   "Oldprice": "132.00",
+   "ratings":"3.5"
+
+}
+
+]

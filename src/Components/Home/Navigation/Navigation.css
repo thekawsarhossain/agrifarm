@@ -1,0 +1,21 @@
+a{
+  text-decoration: none;
+  color: black;
+}
+.nav-1{
+  background-color: #F2F7F3;
+}
+.admin-nav{
+  font-size: 13px;
+  padding: 10px ;
+ 
+}
+.admin-nav button{
+  background-color: #F2F7F3;
+}
+
+.right-div ul li{
+list-style: none;
+margin-right: 15px;
+
+}
