@@ -1,4 +1,3 @@
-import { style } from '@mui/system';
 import React from 'react';
 import { 
  BrowserRouter as Router,
@@ -15,6 +14,7 @@ import Juices from './Juices/Juices';
 import Salads from './Salads/Salads';
 import SeaFood from './SeaFood/SeaFood';
 import Vegetables from './Vegetables/Vegetables';
+
 
 
 const AllItems = () => {
@@ -77,6 +77,9 @@ const AllItems = () => {
 
       
        <Switch>
+         <Route exact path='/'>
+           <Fruits/>
+         </Route>
          <Route  path='/fruits'>
            <Fruits/>
          </Route>

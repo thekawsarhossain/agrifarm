@@ -1,12 +1,13 @@
 import React from 'react';
-import SearchBar from '../SearchBar/SearchBar';
 import BannerSlider from './BannerSlider/BannerSlider';
 import Allitems from '../AllItems/AllItems';
-
+import Navigation from './Navigation/Navigation'
+import './Home.css'
 const Home = () => {
     return (
         <div>
-            <SearchBar />
+            <Navigation/>
+          
             <BannerSlider />
             <Allitems/>
         </div>
